@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OwaspApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hi_message_login">¡Hola!</string>
+    <string name="login_message_login">Iniciar sesión para continuar</string>
+    <string name="paw_print_message_login">o</string>
+    <string name="sign_up_message_login">Registrate</string>
+    <string name="start_message_login">Iniciar sesión</string>
+</resources>
